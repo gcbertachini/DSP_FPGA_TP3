@@ -1,0 +1,6 @@
+alpha	equ	0.401604206 
+beta	equ	0.303208412 
+gama	equ	0.700168578 
+cos_theta_0	equ	0.871714697 
+sigma	equ	1.000000000 
+

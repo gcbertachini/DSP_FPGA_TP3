@@ -1,0 +1,13 @@
+alpha1	equ	0.493414523 
+beta1	equ	-0.500017564 
+gamma1	equ	1.000017564 
+costheta0_1	equ	-2.000036097 
+alpha2	equ	0.493414523 
+beta2	equ	-0.500018049 
+gamma2	equ	1.000018048 
+costheta0_2	equ	-2.000036097 
+alpha3	equ	0.487241142 
+beta3	equ	-0.500017588 
+gamma3	equ	1.000017588 
+costheta0_3	equ	-2.000036097 
+
